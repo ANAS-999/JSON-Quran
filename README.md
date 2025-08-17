@@ -1,6 +1,6 @@
 # Quran in JSON Format
 
-![Project Banner]([https://al-dirassa.com/en/wp-content/uploads/2024/11/quran-6862296_1280.jpg)) <!-- Optional -->
+![Project Banner](https://al-dirassa.com/en/wp-content/uploads/2024/11/quran-6862296_1280.jpg) <!-- Optional -->
 
 A complete, well-structured JSON dataset of the Holy Quran with:
 - Full Arabic text (Uthmani script)
