@@ -34,3 +34,11 @@ A complete, well-structured JSON dataset of the Holy Quran with:
   },
   ...
 ]
+```
+
+## Data Source
+
+All Quranic text and metadata originates from:
+```text
+repo : https://github.com/risan/quran-json?tab=readme-ov-file
+link : https://cdn.jsdelivr.net/npm/quran-json@3.1.2/dist/chapters/index.json
